@@ -104,4 +104,3 @@ This architecture enables clean, reactive, and testable networking in SwiftUI us
 - Minimalist, concept-focused design  
 - No boilerplate, no setup clutter
 
-> Want an advanced version using async/await instead of Combine? Let me know!
